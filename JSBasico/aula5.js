@@ -1,3 +1,5 @@
+// Funções
+
 // Crie uma função para verificar se um valor é Truthy
 function isTruthy(valorTruthy) {
     if(!!valorTruthy == true){

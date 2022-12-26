@@ -1,3 +1,5 @@
+// Escopo
+
 // Por qual motivo o código abaixo retorna com erros?
 // Retorna com erros pois "var" é uma palavra reservada do sistema. Segundo, let e const não são acessíveis fora de seu escopo.
 const marca = 'Fiat';

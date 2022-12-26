@@ -1,3 +1,5 @@
+// Tudo é Objeto
+
 // nomeie 3 propriedades ou métodos de strings
 let nome = 'Matheus';
 nome.charAt(2);

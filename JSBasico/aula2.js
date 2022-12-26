@@ -1,3 +1,5 @@
+// Tipos de Dados
+
 // Declare uma variável contendo uma string
 let frase = "Lionel Messi";
 // Declare uma variável contendo um número dentro de uma string
